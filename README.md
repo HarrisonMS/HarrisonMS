@@ -2,7 +2,7 @@
 
 <!--
 **HarrisonMS/HarrisonMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Welcome My name is Harrison Seaborn and I am a full-stack web developer. I am currently seeking new remote opportunities.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
