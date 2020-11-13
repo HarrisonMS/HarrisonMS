@@ -1,4 +1,14 @@
-### Hi there 👋
+# Welcome to my Github Profile 👋
+
+My name is Harrison Seaborn and I am a full-stack web developer. I am currently seeking new remote opportunities. My skills include HTML, CSS, LESS, JavaScript, React, Redux, Node, Python, Unit Testing, and Deployment. I most recently worked as a Team Lead for [Lambda School](https://lambdaschool.com/) where I was responsible for Leading a Team of Full Stack Developers, through their journey to learn the necessary skills needed, to gain employment in their given field of study. I am currently working on a 1 month long team project to help contribute to the Story Squad application. Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game. This game allows users to read, write, draw and compete against others students.[StorySquad](https://github.com/orgs/Lambda-School-Labs/teams/labs-28-a-storysquad/repositories)
+
+Please feel to contact me on [LinkedIn](https://www.linkedin.com/in/harrison-seaborn/) and [Twitter](https://twitter.com/HarrisonSeaborn)
+
+
+
+
+
+
 
 <!--
 **HarrisonMS/HarrisonMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
